@@ -30,8 +30,8 @@ Obtain the graph.
 ...
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Ragul E
-RegisterNumber: 212221043005
+Developed by: Rahul K
+RegisterNumber: 212221043006
 */
 
 
